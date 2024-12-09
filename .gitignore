@@ -3,6 +3,9 @@ notes.md
 __pycache__/
 *.py[cod]
 *$py.class
+artifacts_temp/
+
+Feature Eng.ipynb
 
 # C extensions
 *.so

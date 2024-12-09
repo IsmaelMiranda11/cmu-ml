@@ -1,0 +1,3 @@
+ColumnTransformer(force_int_remainder_cols=False, remainder='passthrough',
+                  transformers=[('drop', 'drop', 'Name')],
+                  verbose_feature_names_out=False)

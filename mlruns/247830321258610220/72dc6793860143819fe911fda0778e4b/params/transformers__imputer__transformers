@@ -1,0 +1,1 @@
+[('numeric_imputer', SimpleImputer(strategy='median'), Index(['Age', 'RoomService', 'FoodCourt', 'ShoppingMall', 'Spa', 'VRDeck'], dtype='object')), ('categorical_imputer', KNNImputer(n_neighbors=10), ['Group', 'Deck', 'Num', 'Side', 'VIP', 'CryoSleep', 'HomePlanet', 'Destination'])]

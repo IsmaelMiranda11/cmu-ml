@@ -1,0 +1,5 @@
+ColumnTransformer(force_int_remainder_cols=False, remainder='passthrough',
+                  transformers=[('encoder', OrdinalEncoder(),
+                                 ['Deck', 'Side', 'VIP', 'CryoSleep',
+                                  'HomePlanet', 'Destination'])],
+                  verbose_feature_names_out=False)

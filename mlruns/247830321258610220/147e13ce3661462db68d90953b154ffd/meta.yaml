@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/247830321258610220/147e13ce3661462db68d90953b154ffd/artifacts
+end_time: 1733681480404
+entry_point_name: ''
+experiment_id: '247830321258610220'
+lifecycle_stage: active
+run_id: 147e13ce3661462db68d90953b154ffd
+run_name: spaceshit-titanic-20241208-181120
+run_uuid: 147e13ce3661462db68d90953b154ffd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733681480339
+status: 4
+tags: []
+user_id: ismae

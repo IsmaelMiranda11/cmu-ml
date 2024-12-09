@@ -1,0 +1,10 @@
+ColumnTransformer(force_int_remainder_cols=False, remainder='passthrough',
+                  transformers=[('passenger_id',
+                                 FunctionTransformer(feature_names_out=<function <lambda> at 0x000001B75A685760>,
+                                                     func=<function passenger_id_spliter at 0x000001B75A6858A0>),
+                                 'PassengerId'),
+                                ('cabin',
+                                 FunctionTransformer(feature_names_out=<function <lambda> at 0x000001B75A4A63E0>,
+                                                     func=<function cabin_spliter at 0x000001B75A685C60>),
+                                 'Cabin')],
+                  verbose_feature_names_out=False)
